@@ -1,0 +1,12 @@
+.login{background: url(./login-bg.jpg) no-repeat; background-size: 100% 100%; width: 100%;height:100%;position: fixed;top:0;left:0;right:0;bottom:0}
+.login-warp{width:400px;height:440px;margin:118px 0 0 60%; padding: 40px 30px; background: rgba(0, 0, 0, 0.1);}
+.login-warp h1{text-align: center; color: #999999;}
+.login-box{margin: 0 auto;padding: 10px 0;}
+.login-box label{margin-left: 10px; color: #333333;font-weight: bold;}
+.login-box-input{padding: 8px;margin-top: 10px;margin-left: 20px; border-radius:3px; border: none; width: 250px; margin-bottom: 20px; color:#999999 ;}
+.login-box-submit{width: 90%;margin-top: 20px; text-align: center;padding: 10px;font-size: 18px; color: #ffffff;margin: 0 auto ; font-weight: bold;}
+.login-box-submit-green{border: 2px solid #336633; margin-bottom: 20px;margin-top: 20px; opacity: 0.6;}
+.login-box-submit-green:hover{background-color:#336633;opacity: 1;font-weight: bold; cursor: pointer;}
+.login-box-submit-red{border: 2px solid #993333;opacity: 0.6;}
+.login-box-submit-red:hover{background-color:#993333;opacity: 1;font-weight: bold; cursor: pointer;}
+.error_light{color: #993333; font-size: 14px; text-align: center;}
